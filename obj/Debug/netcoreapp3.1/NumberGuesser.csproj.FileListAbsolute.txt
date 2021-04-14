@@ -1,0 +1,13 @@
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
+D:\Jesiel Palacios\Documents\Proyectos\.NET\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
